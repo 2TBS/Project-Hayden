@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureGroup>
+  <texture scale="0">Default_0.png</texture>
+  <tpe x="0" y="4" tpage="Default_0" entry="20">background2_background2.tpe</tpe>
+  <tpe x="0" y="266" tpage="Default_0" entry="21">font0_font0.tpe</tpe>
+  <tpe x="2" y="398" tpage="Default_0" entry="18">jump_right_jump_right_0.tpe</tpe>
+  <tpe x="2" y="434" tpage="Default_0" entry="19">jump_left_jump_left_0.tpe</tpe>
+  <tpe x="2" y="470" tpage="Default_0" entry="1">walk_left_walk_left_0.tpe</tpe>
+  <tpe x="34" y="470" tpage="Default_0" entry="2">walk_right_walk_right_0.tpe</tpe>
+  <tpe x="38" y="398" tpage="Default_0" entry="10">walk_right_walk_right_7.tpe</tpe>
+  <tpe x="38" y="434" tpage="Default_0" entry="17">walk_left_walk_left_7.tpe</tpe>
+  <tpe x="66" y="398" tpage="Default_0" entry="0">fall_left_fall_left_0.tpe</tpe>
+  <tpe x="66" y="434" tpage="Default_0" entry="3">fall_right_fall_right_0.tpe</tpe>
+  <tpe x="66" y="470" tpage="Default_0" entry="5">walk_right_walk_right_2.tpe</tpe>
+  <tpe x="94" y="470" tpage="Default_0" entry="6">walk_right_walk_right_3.tpe</tpe>
+  <tpe x="98" y="398" tpage="Default_0" entry="9">walk_right_walk_right_6.tpe</tpe>
+  <tpe x="98" y="434" tpage="Default_0" entry="12">walk_left_walk_left_2.tpe</tpe>
+  <tpe x="122" y="470" tpage="Default_0" entry="13">walk_left_walk_left_3.tpe</tpe>
+  <tpe x="126" y="398" tpage="Default_0" entry="16">walk_left_walk_left_6.tpe</tpe>
+  <tpe x="126" y="434" tpage="Default_0" entry="4">walk_right_walk_right_1.tpe</tpe>
+  <tpe x="150" y="470" tpage="Default_0" entry="7">walk_right_walk_right_4.tpe</tpe>
+  <tpe x="154" y="398" tpage="Default_0" entry="8">walk_right_walk_right_5.tpe</tpe>
+  <tpe x="154" y="434" tpage="Default_0" entry="11">walk_left_walk_left_1.tpe</tpe>
+  <tpe x="182" y="398" tpage="Default_0" entry="14">walk_left_walk_left_4.tpe</tpe>
+  <tpe x="210" y="398" tpage="Default_0" entry="15">walk_left_walk_left_5.tpe</tpe>
+</TextureGroup>
