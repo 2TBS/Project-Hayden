@@ -8,9 +8,19 @@
   <sprites name="sprites">
     <sprite>sprites\sprite1</sprite>
     <sprite>sprites\sprite0</sprite>
+    <sprite>sprites\sprite2</sprite>
   </sprites>
-  <backgrounds name="background"/>
+  <backgrounds name="background">
+    <background>background\background0</background>
+  </backgrounds>
   <paths name="paths"/>
+  <objects name="objects">
+    <object>objects\Hayden</object>
+    <object>objects\Enemy</object>
+  </objects>
+  <rooms name="rooms">
+    <room>rooms\Demo</room>
+  </rooms>
   <help>
     <rtf>help.rtf</rtf>
   </help>
